@@ -1,6 +1,7 @@
 # Gerekli Paketler
 
-pip install streamlit google-generativeai python-dotenv PyPDF2 pandas openpyxl
+pip install streamlit google-generativeai python-dotenv PyPDF2 pandas openpyxl scikit-learn plotly
+
 
 
 # .env dosyasına eklenecek Gemini api tanımı
